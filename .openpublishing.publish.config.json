@@ -8,18 +8,19 @@
       "build_source_folder": "Tanyatang0Docset1104064319",
       "build_output_subfolder": "Tanyatang0Docset1104064319",
       "locale": "zh-cn",
-      "version": 0,
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "version": 0
     }
   ],
   "notification_subscribers": [],
   "branches_to_filter": [],
+  "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
   "dependent_repositories": [
@@ -29,5 +30,6 @@
       "branch": "master",
       "branch_mapping": {}
     }
-  ]
+  ],
+  "need_generate_pdf_url_template": false
 }
